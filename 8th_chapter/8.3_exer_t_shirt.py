@@ -1,8 +1,7 @@
-def describe_pet(pet_name, animal_type='dog'):
- """Выводит информацию о животном."""
- print(f"\nI have a {animal_type}.")
- print(f"My {animal_type}'s name is {pet_name.title()}.")
+def make_shirt(text, size='M'):
+    """Print size and text on the T-shirt"""
+    print("Congratulations!")
+    print(f"We made T-shirt {size} size and '{text}' text on it")
 
-
-describe_pet('wille')
-
+make_shirt('Follow me', 'XL')
+make_shirt(size='S', text='LookUp')
