@@ -1,0 +1,3 @@
+In python you can use classes
+In python you can automate your rutine
+in python you can use functions
